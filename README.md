@@ -1,2 +1,6 @@
 # ML-Study-Group
-ML Study Group Session 1
+The following list the topics covered for every session. 
+
+	Session 1 - Introduction
+	Session 2 - Preprocessing Techniques
+	
